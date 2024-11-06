@@ -1,0 +1,6 @@
+@net_core_HostAddress = http://localhost:5019
+
+GET {{net_core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
